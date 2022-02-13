@@ -62,7 +62,7 @@ Clang for XCode
 ```
 
 ## Usage
-> To run the code, simply open Visual Studio Code and open the [Password generator.c](https://github.com/rohan-bhautoo/Password-generator/blob/master/C%20-Password%20generator/Password%20generator.c) file and click on Run.
+> To run the code, simply open [Password generator.c](https://github.com/rohan-bhautoo/Password-generator/blob/master/C%20-Password%20generator/Password%20generator.c) file in Visual Studio Code and click on Run.
 
 ## Author
 
