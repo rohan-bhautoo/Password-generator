@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="250" height="200" src="https://github.com/rohan-bhautoo/Point-Of-Sales-System/blob/master/pointofsales/src/main/java/com/pointofsales/Image/POS-icon.png">
+  <img src="https://github.com/rohan-bhautoo/Password-generator/blob/master/Password%20Generator%20logo.png">
 </p>
-<h1 align="center">Easy-to-remember Password Generator</h1>
+<h1 align="center">Password Generator</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
